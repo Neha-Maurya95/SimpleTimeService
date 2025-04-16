@@ -29,11 +29,11 @@ http://localhost:3000/
 If you don't want to build the image locally, you can directly pull a pre-built image from Docker Hub.
 
 ### 1. Pull the Docker Image from Docker Hub
-Open your terminal and run the following command to pull the image from the public Docker Hub registry: \
+Open your terminal and run the following command to pull the image from the public Docker Hub registry:\
 $ docker pull nehamaurya/simple-time-service
 
 ### 2. Run the Docker Container
-Once the image is pulled successfully, you can run a container from it using the following command:
+Once the image is pulled successfully, you can run a container from it using the following command:\
 $ docker run -p 3000:3000 nehamaurya/simple-time-service
 
 ### 3. Accessing the Application

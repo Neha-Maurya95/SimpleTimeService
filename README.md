@@ -5,7 +5,7 @@ This is a simple Node.js web service that returns the current timestamp and the 
 * **Git:** You need to have Git installed on your system. You can find installation instructions here: [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * **Docker:** You need to have Docker installed on your system. You can find installation instructions for your operating system on the official Docker website: [https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/)
 
-## Option 2:  Steps to Clone, Build, and Run the Docker Container (Locally)
+## Option 1:  Steps to Clone, Build, and Run the Docker Container (Locally)
 ### 1. Clone the Repository
 $ git clone https://github.com/Neha-Maurya95/SimpleTimeService.git \
 $ cd SimpleTimeService

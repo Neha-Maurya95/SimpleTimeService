@@ -7,7 +7,7 @@ This is a simple Node.js web service that returns the current timestamp and the 
 
 ## Option 1:  Steps to Clone, Build, and Run the Docker Container (Locally)
 ### 1. Clone the Repository
-_$ git clone https://github.com/Neha-Maurya95/SimpleTimeService.git \_
+_$ git clone https://github.com/Neha-Maurya95/SimpleTimeService.git_ \
 _$ cd SimpleTimeService_
 
 ### 2. Build the Docker Image

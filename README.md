@@ -34,7 +34,7 @@ $ docker pull nehamaurya/simple-time-service
 
 ### 2. Run the Docker Container
 Once the image is pulled successfully, you can run a container from it using the following command:\
-$ docker run -p 3000:3000 nehamaurya/simple-time-service
+$ docker run -d -p 3000:3000 nehamaurya/simple-time-service
 
 ### 3. Accessing the Application
 Once the container is running, you can access the web service by opening your web browser or using a tool like curl to the following URL:
